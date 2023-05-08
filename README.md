@@ -3,8 +3,8 @@
 </h4>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexandrerehder/api-node?color=%2304D361"> 
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/alexandrerehder/api-node">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexandrerehder/node-api?color=%2304D361"> 
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/alexandrerehder/node-api">
 </p>
     
 ## 🛠 Tecnologias
